@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Theme colors -->
+
+
+    <!-- general text colors -->
+    <color name="text">#212121</color>
+    <color name="secondary">#727272</color>
+    <color name="hint">#B8B8B8</color>
+    <color name="dividers">#DADADA</color>
+
+
+    <color name="myPrimaryColor">#9C27B0</color>
+    <color name="myPrimaryDarkColor">#4A148C</color>
+    <color name="myAccentColor">#9C27B0</color>
+    <color name="myNavigationColor">#000000</color>
+    <color name="myAccentColor_transparent">#709C27B0</color>
+    <color name="myDrawerBackground">#FFFFFF</color>
+    <color name="myWindowBackground">#FFFFFF</color>
+    <color name="myTextPrimaryColor">#00000f</color>
+
+    <color name="selected_gray">#ffdbdbdb</color>
+    <color name="bkg_card">#8C9EFF</color>
+
+    <drawable name="pressed_gray">#0c000000</drawable>
+
+
+</resources>

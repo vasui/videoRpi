@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Video Surveillance</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="drawer_open">Hello world!</string>
+    <string name="drawer_close">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_tempactivity">tempactivity</string>
+    <string name="title_activity_primary">PrimaryActivity</string>
+    <string name="title_activity_livestream">Livestream</string>
+    <string name="loading_video">Loading..</string>
+</resources>
